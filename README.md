@@ -13,7 +13,7 @@ This setup allows:
 
 
 
-![Architecture Diagram]([images/architecture.png]architectureRProxy.png))
+![Architecture Diagram]([images/architecture.png]architectureRProxy.png)
 
 
 ---
