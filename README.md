@@ -202,10 +202,36 @@ File:
 
 # Complete Configuration Example
 
+⚠️ IMPORTANT:
+
+The configuration below is intentionally written for **ONE single Bitaxe only**.
+
+If you want to expose multiple Bitaxe devices:
+
+- Duplicate the entire `server {}` block
+- Change the listening port
+- Change the internal Bitaxe IP address
+
+Example:
+
+| Bitaxe | Public Port | Internal IP |
+|---|---|---|
+| Bitaxe #1 | 18443 | 192.168.10.41 |
+| Bitaxe #2 | 19443 | 192.168.10.42 |
+| Bitaxe #3 | 20443 | 192.168.10.43 |
+
+Each Bitaxe should have:
+
+- Its own `server {}` block
+- Its own listening port
+- Its own internal IP
+
+---
+
 Replace:
 
-- your-domain.example.com
-- 192.168.10.41
+- `your-domain.example.com`
+- `192.168.10.41`
 
 with your own values.
 
