@@ -257,7 +257,7 @@ server {
             deny all;
         }
 
-        proxy_pass http://192.168.10.41/;
+        proxy_pass http://192.168.10.41;
 
         proxy_http_version 1.1;
 
