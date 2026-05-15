@@ -19,35 +19,10 @@ This setup was tested using:
 
 | Hardware | Role |
 |---|---|
-| Raspberry Pi 3 / 4 / 5 | Reverse Proxy Server |
-| Bitaxe Ultra / Gamma / Supra | Bitcoin ASIC Miner |
+| Raspberry Pi Zero 2 W| Reverse Proxy Server |
+| 2 x  Bitaxe Gamma 601 | Bitcoin ASIC Miner |
 | Freebox Router | Port Forwarding |
-| Optional SSD or High-Endurance SD Card | Better reliability |
 
----
-
-# Recommended Raspberry Pi Setup
-
-## Minimum Recommended
-
-| Component | Recommendation |
-|---|---|
-| CPU | Raspberry Pi 3 minimum |
-| RAM | 1 GB minimum |
-| Storage | 16 GB SD Card |
-| OS | Raspberry Pi OS Lite |
-| Network | Ethernet preferred |
-
----
-
-## Recommended for Multiple Bitaxes
-
-| Component | Recommendation |
-|---|---|
-| CPU | Raspberry Pi 4 or 5 |
-| RAM | 2 GB+ |
-| Storage | SSD preferred |
-| Cooling | Passive or active cooling |
 
 ---
 
