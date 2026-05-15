@@ -12,8 +12,7 @@ This setup allows:
 - Protection against unauthorized remote configuration changes
 
 
-
-![Architecture Diagram]([images/architecture.png]architectureRProxy.png)
+![Bitaxe Reverse Proxy Architecture](https://raw.githubusercontent.com/Kywalh/BitaxeReverseProxy/main/architectureRProxy.png)
 
 
 ---
