@@ -11,6 +11,11 @@ This setup allows:
 - TLS encryption with Let's Encrypt
 - Protection against unauthorized remote configuration changes
 
+
+
+![Architecture Diagram]([images/architecture.png]architectureRProxy.png))
+
+
 ---
 
 # Hardware Used
